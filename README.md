@@ -39,5 +39,5 @@ CI is usually accompanied by running an application's test suite against the lat
 
 Travis CI configuration how-to and example:
 - [.travis.yml](.travis.yml) - Travis CI's configuration file (with instructions)
-- [DelishDish Travis CI build!](https://travis-ci.org/bennypaulino/portfolio_blog)
-- Travis CI badge for DelishDish: [![Build Status](https://travis-ci.org/bennypaulino/delish-dish.svg?branch=master)](https://travis-ci.org/bennypaulino/portfolio_blog)
+- [PortfolioBlog Travis CI build!](https://travis-ci.org/bennypaulino/portfolio_blog)
+- Travis CI badge for PortfolioBlog: [![Build Status](https://travis-ci.org/bennypaulino/delish-dish.svg?branch=master)](https://travis-ci.org/bennypaulino/portfolio_blog)
