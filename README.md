@@ -1,9 +1,15 @@
 # PortfolioBlog Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A Ruby on Rails 5.2 application for a hybrid Portfolio / Blog website
 
-Things you may want to cover:
+### Features
+
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
+
+### Configuration
 
 * Ruby version => 2.5
 
