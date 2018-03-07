@@ -8,7 +8,7 @@ before_script:
   - bin/rake db:migrate RAILS_ENV=test
 
 script:
-  - bundle exec rake ci:tests
+  - bundle exec rspec
 
 services:
   - postgresql
